@@ -1,11 +1,11 @@
 # AWS Spring Boot Fullstack Starter
 
-Equivalent starter with a React UI and a local Spring Boot backend.
+Starter project with a React UI and a local Spring Boot backend.
 
 ## Structure
 
 - `frontend`: React + TypeScript + Vite UI
-- `backend`: Spring Boot API with equivalent endpoints
+- `backend`: Spring Boot API with job endpoints
 
 ## Backend API
 
